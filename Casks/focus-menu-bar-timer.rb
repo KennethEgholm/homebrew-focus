@@ -1,6 +1,6 @@
 cask "focus-menu-bar-timer" do
-  version "1.1"
-  sha256 "ced7b57988ba6007445d384a72530dbb6f7635a6b3ce78faed53f242377bb69f"
+  version "1.2"
+  sha256 "aec3491025ba8348f3cd87d18742c31ecdb862d283c653e1430f4729ed5453fb"
 
   url "https://github.com/KennethEgholm/focus-app/releases/download/v#{version}/Focus-#{version}.zip"
   name "Focus – Menu Bar Timer"
